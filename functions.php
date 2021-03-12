@@ -90,8 +90,8 @@ add_theme_support ('editor-color-palette', array(
 		'color'	=> '#8B572A',
 	),
 	array(
-		'name' => __( 'Vanille', 'astra-child-simplon' ),
-		'slug'  => 'vanille',
+		'name' => __( 'Vanilla', 'astra-child-simplon' ),
+		'slug'  => 'vanilla',
 		'color'	=> '#EBE5D9',
 	),
 	array(
